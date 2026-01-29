@@ -1,6 +1,6 @@
 {
 	"schemaVersion": "1.0",
-	"lastUpdated": "2026-01-29T17:01:46.161Z",
+	"lastUpdated": "2026-01-29T17:09:36.487Z",
 	"applications": {
 		"7fa17f55-8176-4f7c-80c5-f82b4235f88c": {
 			"name": "Test",
@@ -48,6 +48,25 @@
 					],
 					"commitSha": "84fe615a68f0ec4233a9aba27c48dc69d4a91b5f",
 					"commitMessage": "Test",
+					"status": "supported"
+				}
+			]
+		},
+		"9bf927cd-db65-4abc-8e38-10534afdf9a8": {
+			"name": "Demo",
+			"sysId": "9bf927cd-db65-4abc-8e38-10534afdf9a8",
+			"repoUrl": "https://github.com/Otaewaiv/quantum-demo",
+			"releases": [
+				{
+					"version": "0.0.1",
+					"branch": "0.0.1",
+					"publishedAt": "2026-01-29T17:09:36.487Z",
+					"publishedBy": "quantum.admin",
+					"platformVersions": [
+						"master v20250923.18"
+					],
+					"commitSha": "c4308124e887bc9f02551096d4853ad6bd1e27f4",
+					"commitMessage": "Test pub",
 					"status": "supported"
 				}
 			]
