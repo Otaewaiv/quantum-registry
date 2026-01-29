@@ -1,6 +1,6 @@
 {
 	"schemaVersion": "1.0",
-	"lastUpdated": "2026-01-29T16:32:49.514Z",
+	"lastUpdated": "2026-01-29T17:01:46.161Z",
 	"applications": {
 		"7fa17f55-8176-4f7c-80c5-f82b4235f88c": {
 			"name": "Test",
@@ -26,6 +26,18 @@
 			"sysId": "8188755d-7e30-44fe-9c62-8c319a654b7f",
 			"repoUrl": "https://github.com/Otaewaiv/quantum-test-2",
 			"releases": [
+				{
+					"version": "0.0.2",
+					"branch": "0.0.2",
+					"publishedAt": "2026-01-29T17:01:46.161Z",
+					"publishedBy": "quantum.admin",
+					"platformVersions": [
+						"master v20250923.18"
+					],
+					"commitSha": "8cb01ea5bc99be1ea0e7be254091793065ca73c7",
+					"commitMessage": "new version",
+					"status": "supported"
+				},
 				{
 					"version": "0.0.1",
 					"branch": "0.0.1",
