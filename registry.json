@@ -1,0 +1,25 @@
+{
+	"schemaVersion": "1.0",
+	"lastUpdated": "2026-08-14T20:59:28.648Z",
+	"applications": {
+		"a0841d3c-d152-42a3-abbb-be8ab0221747": {
+			"name": "Change Management",
+			"sysId": "a0841d3c-d152-42a3-abbb-be8ab0221747",
+			"repoUrl": "https://github.com/Otaewaiv/quantum-change",
+			"releases": [
+				{
+					"version": "0.0.1",
+					"branch": "0.0.1",
+					"publishedAt": "2026-08-14T20:59:28.648Z",
+					"publishedBy": "quantum.admin",
+					"platformVersions": [
+						"release/2026.8.14.4"
+					],
+					"commitSha": "23d9a33726d8b0638b45ac06c59c645d9ea92853",
+					"commitMessage": "Daves build",
+					"status": "supported"
+				}
+			]
+		}
+	}
+}
